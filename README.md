@@ -27,7 +27,7 @@ Steals focuses on three questions:
 | Deal redemption | 44% |
 | Week-two retention | 36% |
 
-The research shifted the roadmap toward inventory freshness and merchant verification before increasingly complex personalization.
+The research shifted the roadmap toward inventory freshness and data quality before increasingly complex personalization.
 
 ## Product experience
 
@@ -67,7 +67,7 @@ The system separates catalog ingestion from request-time serving. Product data i
 - React Native and Expo mobile client
 - Python and FastAPI backend
 - PostgreSQL-backed authentication and event storage
-- Image embeddings for visual preference modelling
+- Personalization system for visual preference modelling
 - Automated tests and typed mobile code
 
 ## My role
